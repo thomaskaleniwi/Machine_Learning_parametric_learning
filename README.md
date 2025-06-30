@@ -1,0 +1,1 @@
+Here is the code for my machine learning project that deals with a supervised and an unsupervised machine learning algorithm in order to map the parameters defining an a convex non-linear optimization problem to it's optimal solutions. The problem should be solved fast in order to enable a real-time solution 
